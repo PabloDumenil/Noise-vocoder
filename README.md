@@ -26,7 +26,7 @@ Algorithm steps :
  - Multiplies the envelope with the corresponding frequency band of the filtered noise. 
    (Modulates the noise with the amplitude variations of the input signal)
 
-6. Summing the modulated bands
+7. Summing the modulated bands
 
  - The modulated bands are summed up across all frequency bands.
  
